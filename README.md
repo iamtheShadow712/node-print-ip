@@ -19,12 +19,12 @@ Follow these steps to get the application up and running on your local machine:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/iamtheShadow712/node-print-ip.git
 
 2. Navigate to the cloned directory
 
    ```bash
-   cd <cloned-directory>
+   cd node-print-ip
 
 3. Install the packages
 
