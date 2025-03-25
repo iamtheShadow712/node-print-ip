@@ -31,7 +31,6 @@ Follow these steps to get the application up and running on your local machine:
    ```bash
    npm install
 
-
 4. Start the nodejs application
 
    ```bash
